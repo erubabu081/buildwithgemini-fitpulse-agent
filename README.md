@@ -70,8 +70,8 @@ uv sync
 Set your target GCP Project ID and GCS Bucket name:
 
 ```bash
-export GCP_PROJECT="qwiklabs-gcp-02-82f554a728eb"
-export GOOGLE_CLOUD_PROJECT="qwiklabs-gcp-02-82f554a728eb"
+export GCP_PROJECT=""
+export GOOGLE_CLOUD_PROJECT=""
 ```
 
 ### 3. Run the ADK Agent Web Playground
