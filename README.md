@@ -1,6 +1,6 @@
 # FitPulse AI Workout Coach 🏋️‍♂️
 
-FitPulse AI is a conversational fitness coach built using Google's **Agent Development Kit (ADK)**. It helps users design personalized workout routines, search exercise libraries, log workout sessions, calculate strength metrics (1RM & training volume), search public exercise databases, and generate short exercise demonstration videos using Vertex AI Omni models.
+FitPulse AI is a conversational fitness coach built using Google's **Agent Development Kit (ADK)**. It helps users design personalized workout routines, search exercise libraries, log workout sessions, search public exercise databases, and generate short exercise demonstration videos using Vertex AI Omni models.
 
 ![FitPulse AI Demo](demo.gif)
 
